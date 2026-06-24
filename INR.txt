@@ -1,0 +1,174 @@
+# --------------- WEEK-1 TASK ------------------
+
+ACCOUNT
+PASSWORD
+SIGN in (MAIL,PHONE NUNMBER, WHATSAPP)
+REGISTRATION(OTP ALSO)
+
+
+# ------------- ACCOUNT ------------------------
+CLICK
+Click Account
+
+HOVER SIGN IN
+Hover Account
+Click Sign in
+
+HOVER REGISTER 
+Hover Account
+Click Register
+
+
+# ------------ FORGOT PASSWORD -----------------
+
+Open URL
+Wait until page is loaded
+
+Click Account
+Wait until page is loaded
+
+Click link Forgot your password
+Wait until page is loaded
+
+Type 9629400440 in user login
+
+Click button Submit
+Wait until page is loaded
+
+wait 30
+press Enter 
+wait 10
+
+Type Sathish@11042002 in new password
+Click button update
+
+
+# ----------------- SIGN IN -----------------------
+
+# ACCOUNT -> SIGN IN -> MAIL -> DETAILS -> LOGIN
+
+Open URL
+Wait until page is loaded
+
+Click Account
+Wait until page is loaded
+
+Type vinothkumarg@astroved.com in username
+Type Sathish@11042002 in password
+Wait until page is loaded
+
+Click button LOGIN
+Wait until page is loaded
+
+
+# ACCOUNT -> SIGN IN -> MOBILE -> DETAILS -> SEND OTP
+
+Open URL
+Wait until page is loaded
+
+Click Account
+Wait until page is loaded
+
+Click Mobile
+Wait until page is loaded
+
+Type 7305608573 in Mobile
+Wait until page is loaded
+
+Click button Send OTP
+Wait until page is loaded
+
+
+# ACCOUNT -> SIGN IN -> WHATSAPP -> DETAILS -> SEND OTP TO WHATSAPP
+
+Open URL
+Wait until page is loaded
+
+Click Account
+Wait until page is loaded
+
+Click Whatsapp
+Wait until page is loaded
+
+Type 7305608573 in Mobile
+Wait until page is loaded
+
+Click button Send to Whatsapp
+Wait until page is loaded
+
+Click Register now
+Wait until page is loaded
+
+# ACCOUNT -> SIGN IN -> MAIL -> MOBILE -> WHATSAPP -> MAIL -> DETAILS -> LOGIN
+
+Open URL
+Wait until page is loaded
+
+Click Account
+Wait until page is loaded
+
+Click Mobile
+Wait until page is loaded
+
+Click Whatsapp
+Wait until page is loaded
+
+Click Email
+Wait until page is loaded
+
+Type vinothkumarg@astroved.com in username
+Type Sathish@11042002 in password
+Wait until page is loaded
+
+Click button LOGIN
+Wait until page is loaded
+
+
+# ------------- REGISTRATION -------------------
+
+# ACCOUNT -> SIGN IN -> REGISTER -> DETAILS -> SEND OTP
+
+Open URL
+Wait until page is loaded
+
+Click Account
+Wait until page is loaded
+
+Click link Register now
+Wait until page is loaded
+
+Type Vinoth in name
+Type 9629400440 in number
+Wait until page is loaded
+
+Click Checkbox is whatsapp number
+Click Send OTP
+Wait until page is loaded
+
+
+# ACCOUNT -> SIGN IN -> REGISTER -> DETAILS -> SEND OTP -> OTP VERFICATION
+
+Open URL
+Wait until page is loaded
+
+Hover Account
+Wait until page is loaded
+
+Click Register
+Wait until page is loaded
+
+Type vinoth in Name
+Type 7305608573 in number
+Wait until page is loaded
+
+Click checkbox is whatsapp number
+
+Click button Send OTP
+Wait until page is loaded
+
+Type 123456 in otp
+Type vinothkumarg@astroved.com in email
+Click button Verify OTP
+Wait until page is loaded
+
+

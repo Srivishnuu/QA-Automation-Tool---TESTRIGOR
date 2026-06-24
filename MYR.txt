@@ -1,0 +1,62 @@
+----------------------------------------------------------------------------------------------
+                                SIGN IN to SWITCH INR --> MYR
+----------------------------------------------------------------------------------------------
+Open URL
+Wait until the page is loaded
+
+Hover Account
+Click Sign IN
+Type avtestingteammyr@gmail.com in Username
+Type testAV@myr@146 in Password
+Click Button Login
+Wait until the page is loaded
+
+
+click Account
+Click Button Log Off
+-----------------------------------------------------------------------------------------------
+                                 MYR ACCOUNT REGISTERATION
+-----------------------------------------------------------------------------------------------
+Open URL
+Wait until the page is loaded
+
+Hover Account
+Click Register
+
+Type Srivishnu in First Name
+Type Murugavel in Last Name
+Type avtestingteammyr@gmail.com in Email ID
+Type testAV@myr@146 in reg password
+Type testAV@myr@146 in Confrim password
+Select Malaysia in Select Country
+Click Button Sign Up
+
+-----------------------------------------------------------------------------------------------
+                                    MYR ACC FULL TESTCASE
+----------------------------------------------------------------------------------------------
+Open URL
+Wait until the page is loaded
+
+Hover Account
+Click Sign IN
+Type avtestingteammyr@gmail.com in Username
+Type testAV@myr@146 in Password
+Click Button Login
+Wait until the page is loaded
+
+click Account
+Click Button Log Off
+Wait until the page is loaded
+
+Hover Account
+Click Register
+
+Type Srivishnu in First Name
+Type Murugavel in Last Name
+Type bisef69932@bitoini.com in email
+Type testAV@myr@146 in reg password
+Type testAV@myr@146 in Confirm Password
+Select Malaysia in Select Country
+
+Click Button Sign Up
+Wait until the page is loaded

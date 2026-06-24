@@ -1,0 +1,29 @@
+-----------------------------------------------------------------------------------------------------------------
+                                            USD Account
+-----------------------------------------------------------------------------------------------------------------
+Open URL
+Wait until the page is loaded
+Hover Account
+Click Sign IN
+
+Type sobadim278@bitonc.com in Username
+Type Srivishnu@123 in Password
+Click Button Login
+Wait until the page is loaded
+
+click SRIVISHNU MURUGAVEL
+Click Button Log Off
+Wait until the page is loaded
+
+Hover Account
+Click Register
+
+Type Srivishnu in First Name
+Type Murugavel in Last Name
+Type bigil98435@alibto.com in email
+Type testAV@myr@146 in reg password
+Type testAV@myr@146 in Confirm Password
+Select United States in Select Country
+
+Click Button Sign Up
+Wait until the page is loaded
